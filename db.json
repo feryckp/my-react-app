@@ -1,0 +1,25 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "5582"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "3bfc"
+    }
+  ],
+  "products": [
+    {
+      "title": "Garam",
+      "price": "10000",
+      "id": "0ba7"
+    }
+  ]
+}
